@@ -1,0 +1,2 @@
+this file send from client to sever using ipv6 for casestudy
+using udp implementation
